@@ -1,0 +1,3 @@
+admin
+admin123
+$2a$10$iG4YlqftCe.AxmrklawXmedv/KbbcrY/AycM5bNU/bYXCIMLsu1/e
